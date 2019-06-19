@@ -4,5 +4,6 @@ Authorea*
 *.pkl
 *.csv
 Data_*.xlsx
+R108*.xlsx
 *.docx
 RGB*.ijm
