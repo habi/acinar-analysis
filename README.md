@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/140433592.svg)](https://zenodo.org/badge/latestdoi/140433592)
+
 This repository contains all the analysis we had to do to be able to write the manuscript about the changes in the pulmonary acini.
 
 The main calculations are done in [this Jupyter notebook](Analysis.ipynb).
