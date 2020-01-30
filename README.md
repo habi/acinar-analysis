@@ -2,8 +2,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/acinar-analysis/master)
 [![Gitter](https://badges.gitter.im/acinar-analysis/community.svg)](https://gitter.im/acinar-analysis/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This repository contains all the analysis we had to do to be able to write the manuscript about the changes in the pulmonary acini.
+This repository contains all the analysis we had to do to be able to write the manuscript on the *Pulmonary acini exhibit complex changes during postnatal rat lung development*.
 A preprint of the manuscript can be found on bioRxiv with the DOI [10.1101/786681](https://doi.org/10.1101/786681).
+It is currently under revision at [Frontiers in Physiology](https://www.frontiersin.org/journals/physiology).
 
 The main calculations are done in [this Jupyter notebook](Analysis.ipynb).
 This notebook also generates most of the figures (in Python it would be `figures[1:]`), which have been copied as PNG images to [the Authorea document](https://www.authorea.com/274247/47HwqAxume3L2xkLOsg_SQ) which we've edited collaboratively between all Co-Authors.
