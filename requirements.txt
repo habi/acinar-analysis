@@ -1,7 +1,8 @@
-numpy
-scipy
-pandas
 matplotlib
 matplotlib-scalebar
+numpy
+pandas
+scipy
 seaborn
+statsmodels
 xlrd
