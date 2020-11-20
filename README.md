@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/140433592.svg)](https://zenodo.org/badge/latestdoi/140433592)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/habi/acinar-analysis/master)
-[![Gitter](https://badges.gitter.im/acinar-analysis/community.svg)](https://gitter.im/acinar-analysis/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Join the chat at https://gitter.im/habi/Lungs](https://badges.gitter.im/habi/Lungs.svg)](https://gitter.im/habi/Lungs)
 
 This repository contains all the analysis we had to do to be able to write the manuscript on the *Pulmonary acini exhibit complex changes during postnatal rat lung development*.
 A preprint of the manuscript can be found on bioRxiv with the DOI [10.1101/786681](https://doi.org/10.1101/786681).
